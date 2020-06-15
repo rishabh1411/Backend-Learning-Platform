@@ -1,0 +1,24 @@
+{
+  "name": "backend-learning-platform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishabh1411/Backend-Learning-Platform.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishabh1411/Backend-Learning-Platform/issues"
+  },
+  "homepage": "https://github.com/rishabh1411/Backend-Learning-Platform#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "elasticsearch": "^16.7.1",
+    "express": "^4.17.1"
+  }
+}
